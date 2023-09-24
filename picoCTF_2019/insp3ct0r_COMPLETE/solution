@@ -1,0 +1,7 @@
+Solution:
+	1. Open index.html, you will find the first part of the flag inside the body tag
+	2. Open style.css, just click on it, it will take you to the page, where you will find your 2nd part of the flag
+	3. Open myjs.js, here you will find the final and last part of the flag
+
+FLAG:
+	picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}
