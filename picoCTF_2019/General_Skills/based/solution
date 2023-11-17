@@ -1,0 +1,10 @@
+Solution:
+	1. Launch nc jupiter.challenges.picoctf.org 29956 
+	2. Follow the conversion rule one by one and get the final PicoFlag 
+	3. User CyberChef website for all conversion
+    4. First conversion will be from Binary to text
+    5. Second conversion will be from octal to text
+    6. Third and final conversion will be from hex to text
+
+FLAG:
+	picoCTF{learning_about_converting_values_b375bb16}
